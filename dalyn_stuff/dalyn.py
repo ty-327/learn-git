@@ -1,1 +1,1 @@
-print("Dalyn made this page!")
+print("Dalyn made this!")
